@@ -8,24 +8,23 @@ You will find screenshots in the directory named <code>preview</code>
 All the scripts have been baptised with <code>chmod +x</code>
 
 
-Download
-========
-
-<code>git clone https://github.com/Chef-Stark/Color-Scripts.git</code>
-
-OR
-
-<code>wget http://ow.ly/EIloU -O cs.zip</code>
+##Download
 
 
-Contributions
-=============
+- **Git**:
+<code>git clone git://github.com/Chef-Stark/Color-Scripts</code>
 
-If you have created or found any new Colour Script(s) then Feel Free to make a Pull Request :-)
+- **Wget**:
+<code>wget ow.ly/EIloU -O cs.zip</code>
+
+
+##Contributions
+
+If you have created or found any new Colour Script(s) then **Feel Free** to make a [Pull Request](https://github.com/Chef-Stark/Color-Scripts/pulls) :-)
 
 You can also share your script via a pastebin of your choice and pasting the link in a [New Issue](https://github.com/Chef-Stark/Color-Scripts/issues)
 
 
-Example using sprunge (a command line pastebin):
+Example using **Sprunge** (a command line pastebin):
 
 <code>cat /path/to/myscript | curl -F 'sprunge=<-' http://sprunge.us</code>
