@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # source: Meyithi, https://bbs.archlinux.org/viewtopic.php?pid=1010829#p1010829
 
 xdef="$HOME/.Xresources"

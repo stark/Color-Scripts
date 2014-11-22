@@ -2,6 +2,7 @@
 """
 You can use this tool to display all supported colors and their color number.
 It will exit after a keypress.
+Compatible with both Python 2 and 3
 """
 
 import curses

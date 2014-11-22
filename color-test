@@ -10,7 +10,6 @@
 #   out of 17 (default + 16 escapes), followed by a 
 #   test use of that color on all nine background 
 #   colors (default + 8 escapes).
-#
  
     T='•••'   # The text for the color test
     

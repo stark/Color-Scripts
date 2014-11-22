@@ -12,7 +12,6 @@
 	rst=$'\e[0m'
 	inv=$'\e[7m'
 
-
 cat << EOF
 
 $rst
@@ -32,5 +31,3 @@ $bld
 $rst
 
 EOF
-
-
