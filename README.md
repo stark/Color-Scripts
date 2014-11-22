@@ -15,10 +15,17 @@ Download
 
 OR
 
-<code>wget https://github.com/Chef-Stark/Color-Scripts/archive/master.zip</code>
+<code>wget http://ow.ly/EIloU -O cs.zip</code>
 
 
 Contributions
 =============
 
 If you have created or found any new Colour Script(s) then Feel Free to make a Pull Request :-)
+
+You can also share your script via a pastebin of your choice and pasting the link in a <a href="https://github.com/Chef-Stark/Color-Scripts/issues/new>Issue">New Issue</a>.
+
+
+Example using sprunge (a command line pastebin):
+
+<code>cat /path/to/myscript | curl -F 'sprunge=<-' http://sprunge.us</code>
