@@ -23,7 +23,7 @@ Contributions
 
 If you have created or found any new Colour Script(s) then Feel Free to make a Pull Request :-)
 
-You can also share your script via a pastebin of your choice and pasting the link in a <a href="https://github.com/Chef-Stark/Color-Scripts/issues/new>Issue">New Issue</a>.
+You can also share your script via a pastebin of your choice and pasting the link in a [New Issue](https://github.com/Chef-Stark/Color-Scripts/issues)
 
 
 Example using sprunge (a command line pastebin):
