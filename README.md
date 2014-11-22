@@ -12,9 +12,11 @@ All the scripts have been baptised with <code>chmod +x</code>
 
 
 - **Git**:
+
 <code>git clone git://github.com/Chef-Stark/Color-Scripts</code>
 
 - **Wget**:
+
 <code>wget ow.ly/EIloU -O cs.zip</code>
 
 
