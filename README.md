@@ -2,23 +2,23 @@
 
 Some Color scripts created by various people that were scattered around the web so why not keep'em in one place for everyone's convenience :-)
 
-You will find screenshots in the directory named <code>preview</code>
+You will find screenshots in the directory named `preview`
 
-All the scripts have been baptised with <code>chmod +x</code>
+All the scripts have been baptised with `chmod +x`
 
 
 ###Dependencies
-<code>bash,python 2 or 3</code>(required for `print-colors.py`)
+`bash,python 2 or 3` (required for `print-colors.py`)
 
 ##Download
 
 - **Git**
 
-<code>git clone git://github.com/Chef-Stark/Color-Scripts</code>
+`git clone git://github.com/Chef-Stark/Color-Scripts`
 
 - **Wget** 
 
-<code>wget ow.ly/EIloU -O cs.zip</code>
+`wget ow.ly/EIloU -O cs.zip`
 
 
 ##Contributions
@@ -30,4 +30,4 @@ You can also share your script via a pastebin of your choice and pasting the lin
 
 Example using **Sprunge** (a command line pastebin) :
 
-<code>cat /path/to/myscript | curl -F 'sprunge=<-' http://sprunge.us</code>
+`cat /path/to/myscript | curl -F 'sprunge=<-' http://sprunge.us`
