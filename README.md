@@ -8,7 +8,7 @@ All the scripts have been baptised with <code>chmod +x</code>
 
 
 ###Dependencies
-<code>bash,python 2 or 3<code>(required for `print-colors.py`)
+<code>bash,python 2 or 3</code>(required for `print-colors.py`)
 
 ##Download
 
