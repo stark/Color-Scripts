@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 
+# Author: crshd
+# Source: http://crunchbang.org/forums/viewtopic.php?pid=128584#p128584
+
 echo
 
 for f in {0..6}; do

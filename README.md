@@ -1,6 +1,6 @@
 #Color-Scripts
 
-Some Color scripts created by various people that were scattered around the web so why not keep'em in one place for everyone's convenience :-)
+Some Color scripts created by various people that was scattered around the web now kept in one place for everyone's convenience :-)
 
 You will find screenshots in the directory named `preview`
 
@@ -8,7 +8,9 @@ All the scripts have been baptised with `chmod +x`
 
 
 ###Dependencies
-`bash,python 2 or 3` (required for `print-colors.py`)
+
+- `bash`
+- `python 2 or 3` (required for `print-colors.py`)
 
 ##Download
 
@@ -28,6 +30,6 @@ If you have created or found any new Colour Script(s) thats not present in this 
 You can also share your script via a pastebin of your choice and pasting the link in a [New Issue](https://github.com/Chef-Stark/Color-Scripts/issues)
 
 
-Example using **Sprunge** (a command line pastebin) :
+You can use **Sprunge** (a command line pastebin) to share your script :
 
 `cat /path/to/myscript | curl -F 'sprunge=<-' http://sprunge.us`
