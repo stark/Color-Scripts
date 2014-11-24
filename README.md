@@ -1,6 +1,7 @@
 #Color-Scripts
 
-Some Color scripts created by various people that was scattered around the web now kept in one place for everyone's convenience :-)
+Some Color scripts created by various people that was scattered around the web now :q
+kept in one place for everyone's convenience :-)
 
 You will find screenshots in the directory named `preview`
 
