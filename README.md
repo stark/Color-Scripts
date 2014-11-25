@@ -22,11 +22,11 @@ All the scripts have been baptised with `chmod +x`
 
 Tarball:
 
-`wget -qO- ow.ly/ERymp | tar xz `
+`wget -qO- ow.ly/ERymp | tar xz`
 
 Zip:
 
-`wget -qO- ow.ly/EIloU | bsdtar -xvf- `
+`wget -qO- ow.ly/EIloU | bsdtar -xvf-`
 
 
 ##Contributions
