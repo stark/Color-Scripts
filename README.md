@@ -20,7 +20,11 @@ All the scripts have been baptised with `chmod +x`
 
 - **Wget** 
 
-`wget ow.ly/EIloU -O cs.zip`
+Tarball:
+`wget -qO- ow.ly/ERymp | tar xz`
+
+Zip:
+`wget -qO- ow.ly/EIloU | bsdtar -xvf-`
 
 
 ##Contributions
