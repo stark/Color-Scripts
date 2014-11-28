@@ -11,6 +11,7 @@ All the scripts have been baptised with `chmod +x`
 
 - `bash`
 - `python 2 or 3` (required for `print-colors.py`)
+- `perl` (required for `color-support1.pl`)
 
 ##Download
 
