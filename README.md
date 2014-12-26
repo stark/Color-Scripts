@@ -6,6 +6,7 @@ You will find screenshots in the directory named `preview`
 
 All the scripts have been baptised with `chmod +x`
 
+![Screenshot](http://i.imgur.com/tyA72c7.png)
 
 ###Dependencies
 
