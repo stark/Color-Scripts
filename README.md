@@ -18,7 +18,7 @@ All the scripts have been baptised with `chmod +x`
 
 - **Git**
 
-`git clone git://github.com/Chef-Stark/Color-Scripts`
+`git clone https://github.com/chef-stark/color-scripts`
 
 - **Wget** 
 
