@@ -11,7 +11,7 @@ All the scripts have been baptised with `chmod +x`
 ###Dependencies
 
 - `bash`
-- `python 2 or 3` (required for `print-colors.py`)
+- `python 2 or 3` (required for `print-colors.py` and `unowns.py`)
 - `perl` (required for `color-support1.pl`)
 
 ##Download
