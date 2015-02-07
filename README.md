@@ -24,18 +24,18 @@ All the scripts have been baptised with `chmod +x`
 
 Tarball:
 
-`wget -qO- ow.ly/ERymp | tar xz`
+`wget -qO- ow.ly/IFgBT | tar xz`
 
 Zip:
 
-`wget -qO- ow.ly/EIloU | bsdtar -xvf-`
+`wget -qO- ow.ly/IFguE | bsdtar -xvf-`
 
 
 ##Contributions
 
-If you have created or found any new Colour Script(s) thats not present in this repository then **Feel Free** to make a [Pull Request](https://github.com/Chef-Stark/Color-Scripts/pulls) :-)
+If you have created or found any new Colour Script(s) thats not present in this repository then **Feel Free** to make a [Pull Request](https://github.com/gstk/Color-Scripts/pulls) :-)
 
-You can also share your script via a pastebin of your choice and pasting the link in a [New Issue](https://github.com/Chef-Stark/Color-Scripts/issues)
+You can also share your script via a pastebin of your choice and pasting the link in a [New Issue](https://github.com/gstk/Color-Scripts/issues)
 
 
 You can use **Sprunge** (a command line pastebin) to share your script :
