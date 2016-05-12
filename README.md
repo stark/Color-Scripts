@@ -1,43 +1,42 @@
-#Color-Scripts
+# Color-Scripts
 
 Color scripts created by various people that was scattered around the web now in one place.
 
 You will find screenshots in the directory named `preview`
 
-All the scripts have been baptised with `chmod +x`
+All the scripts have been baptized with `chmod +x`
 
 ![Screenshot](http://i.imgur.com/tyA72c7.png)
 
-###Dependencies
+## Dependencies
 
 - `bash`
 - `python 2 or 3` (required for `print-colors.py` and `unowns.py`)
 - `perl` (required for `color-support1.pl`)
 
-##Download
+## Download
 
-- **Git**
+### Using Git
 
-`git clone https://github.com/gstk/color-scripts`
+Clone this repository:
+```sh
+git clone https://github.com/stark/color-scripts
+```
 
-- **Wget** 
+### Without Git
 
-Tarball:
+[Download tarball](https://git.io/colr.tar.gz)
+```
+wget git.io/colr.tar.gz
+```
 
-`wget -qO- ow.ly/IFgBT | tar xz`
+[Download zipball](https://git.io/colr.zip)
+```
+wget git.io/colr.zip
+```
 
-Zip:
+## Contributions
 
-`wget -qO- ow.ly/IFguE | bsdtar -xvf-`
+If you have created or found a color script which is not present in this repository then **Feel Free** to make a [Pull Request](https://github.com/stark/Color-Scripts/pulls) :-)
 
-
-##Contributions
-
-If you have created or found any new Colour Script(s) thats not present in this repository then **Feel Free** to make a [Pull Request](https://github.com/gstk/Color-Scripts/pulls) :-)
-
-You can also share your script via a pastebin of your choice and pasting the link in a [New Issue](https://github.com/gstk/Color-Scripts/issues)
-
-
-You can use **Sprunge** (a command line pastebin) to share your script :
-
-`cat /path/to/myscript | curl -F 'sprunge=<-' http://sprunge.us`
+You can also share your script via a pastebin of your choice and pasting the link in a [New Issue](https://github.com/stark/Color-Scripts/issues).
