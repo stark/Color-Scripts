@@ -1,6 +1,6 @@
 #!/bin/sh
 getcolour(){
-	xrdb -query .Xresources | tr "\t" " " | sed -ne's/^[a-zA-Z0-9]*\*\.color'$1':[ ]*\(#[0-9a-f]*\)/\1/p'
+	xrdb -query ~/.Xresources | tr "\t" " " | sed -ne's/^[a-zA-Z0-9]*\*\.color'$1':[ ]*\(#[0-9a-f]*\)/\1/p'
 }
 
 reset=$(printf '\033[0m')
