@@ -1,0 +1,29 @@
+#!/usr/bin/env bash
+
+# by ilya144
+
+s="/\\/\\/\\/\\/\\"
+s=$s$s$s$s$s$s$s$s
+
+echo ""
+
+for colnum in {0..75}; do
+	r=$[255-(colnum*255/76)]
+	g=$[colnum*512/76]
+	b=$[colnum*255/76]
+	if (( $g > 255 )); then
+		g=$[510 - g]
+	fi
+
+	rr=$[255-r]
+	gg=$[255-g]
+	bb=$[255-b]
+
+	printf "\033[48;2;%d;%d;%dm" $r $g $b
+	printf "\033[38;2;%d;%d;%dm" $rr $gg $bb
+	printf "%s\033[0m" $(echo -n ${s:colnum:1})
+	
+done
+
+echo ""
+echo ""
